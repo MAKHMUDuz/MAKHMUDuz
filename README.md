@@ -28,6 +28,10 @@ getting close to the metal: C++, Rust, TypeScript, and the KDE ecosystem.
 Systems programming, KDE/Plasma, GPU computing (WebGPU/WGSL), and the small
 plumbing that makes desktop apps feel fast.
 
+## Pins
+
+- 🔤 [melyar](https://github.com/MAKHMUDuz/melyar) · 🖥️ [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) · ⚛️ [wavefront fork](https://github.com/MAKHMUDuz/wavefront)
+
 ## How this profile is maintained
 
 This profile is maintained publicly; some maintenance work is done with the
