@@ -59,13 +59,10 @@ Full CV, certifications and course list live in my profile repo:
 
 <p align="center">
   <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKHMUDuz&layout=compact&hide_border=true&theme=tokyonight" />
-  <a href="https://github.com/rylumot/profile-trophy">
-    <img alt="Trophy" height="150" src="https://github-profile-trophy.vercel.app/?username=MAKHMUDuz&theme=tokyonight&no-frame=true&row=1&column=6" />
-  </a>
 </p>
 
 <p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MAKHMUDuz&theme=tokyo-night&hide_border=true&area=true" style="max-width: 100%;" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MAKHMUDuz&color=tokyonight&style=flat-square&label=Profile+views" />
 </p>
 
 ## 🐍 Contribution snake
