@@ -1,39 +1,88 @@
-# Hi, I'm Makhmudjon (MAKHMUDuz) 👋
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=MAKHMUDJON%20MURODOV&fontSize=44&fontAlignY=32&desc=Desktop%20%E2%80%A2%20Web%20%E2%80%A2%20GPU%20tooling&descSize=18&descAlignY=55&animation=fadeIn" />
+  <img alt="MAKHMUDJON MURODOV" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=MAKHMUDJON%20MURODOV&fontSize=44&fontAlignY=32&desc=Desktop%20%E2%80%A2%20Web%20%E2%80%A2%20GPU%20tooling&descSize=18&descAlignY=55" />
+</picture>
 
-Software developer from Uzbekistan. I build desktop and web tooling and I like
-getting close to the metal: C++, Rust, TypeScript, and the KDE ecosystem.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=640&lines=C%2B%2B20+%2B+Rust+desktop+developer;WebGPU+computing+enthusiast;KDE+%2F+Plasma+tinkerer;Arduino+electronics+hobbyist" />
+  </a>
+</p>
 
-## Projects
+## 🧰 Toolbox
 
-- **[melyar](https://github.com/MAKHMUDuz/melyar)** — Ultra-lightweight native
-  YouTube Music desktop client in C++20 and Rust.
-- **[kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy)** —
-  Plugs the scrcpy screen-mirroring stack into the KDE Connect tray menu, so a
-  connected Android can share its screen with one tray click.
-- **[wavefront](https://github.com/MAKHMUDuz/wavefront)** — Fork of a WebGPU
-  Schrödinger-equation sandbox where I upstreamed GPU readback and
-  device-lifecycle fixes.
-- **[kdeconnect-kde](https://github.com/MAKHMUDuz/kdeconnect-kde)** — Fork used
-  to prototype fixes for KDE Connect's KDE Plasma integration.
+![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-WGSL-8866FF?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-## Recent open-source work
+**Platforms & hardware:**
 
-- Two robustness PRs opened on [ylfeid/wavefront](https://github.com/ylfeid/wavefront)
-  (GPU readback failure handling and stopping the render loop after device loss).
-- [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) ships a
-  tray "Share Screen" action built on scrcpy for full-quality mirroring.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## Interests
+## 👤 About me
 
-Systems programming, KDE/Plasma, GPU computing (WebGPU/WGSL), and the small
-plumbing that makes desktop apps feel fast.
+- Systems-minded developer: I like my desktop apps **fast, native and small**.
+- Building **melyar**, a native YouTube Music client (C++20 core + Rust), and **kdeconnect-scrcpy**, which puts scrcpy-powered screen mirroring behind one KDE Connect tray click.
+- Into **GPU computing**: contributed GPU readback and device-lifecycle fixes to a WebGPU Schrödinger sandbox ([upstream PRs](https://github.com/ylfeid/wavefront/pulls?q=is%3Apr+author%3AMAKHMUDuz)).
+- Daily driver: **Arch Linux + KDE Plasma**, with Arduino boards on the prototyping desk.
 
-## Pins
+## 🚀 Featured projects
 
-- 🔤 [melyar](https://github.com/MAKHMUDuz/melyar) · 🖥️ [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) · ⚛️ [wavefront fork](https://github.com/MAKHMUDuz/wavefront)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [melyar](https://github.com/MAKHMUDuz/melyar) | Ultra-lightweight native YouTube Music desktop client | C++20 · Rust |
+| [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) | "Share Screen" tray button for KDE Connect, backed by scrcpy | C++ · Qt · scrcpy |
+| [wavefront (fork)](https://github.com/MAKHMUDuz/wavefront) | WebGPU Schrödinger-equation sandbox + robustness fixes | TypeScript · WGSL · WebGPU |
+| [kdeconnect-kde (fork)](https://github.com/MAKHMUDuz/kdeconnect-kde) | Playground for Plasma-side KDE Connect fixes | C++ · Qt/KDE |
 
-## How this profile is maintained
+## 📜 CV
 
-This profile is maintained publicly; some maintenance work is done with the
-help of an AI coding agent (BOB, running in OpenCode), and pull requests are
-kept in the repository history for transparency.
+Full CV, certifications and course list live in my profile repo:
+**[MAKHMUDuz/MAKHMUDJON-MURODOV](https://github.com/MAKHMUDuz/MAKHMUDJON-MURODOV)**
+
+## 📊 GitHub stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=MAKHMUDuz&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img alt="Streak stats" height="165" src="https://streak-stats.demolab.com?user=MAKHMUDuz&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKHMUDuz&layout=compact&hide_border=true&theme=tokyonight" />
+  <a href="https://github.com/rylumot/profile-trophy">
+    <img alt="Trophy" height="150" src="https://github-profile-trophy.vercel.app/?username=MAKHMUDuz&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MAKHMUDuz&theme=tokyo-night&hide_border=true&area=true" style="max-width: 100%;" />
+</p>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+_Generated automatically by a scheduled GitHub Action in this repository._
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-mahmudjonmurodov@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudjonmurodov@mail.ru)
+![GitHub](https://img.shields.io/badge/GitHub-MAKHMUDuz-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+<sub>Maintained publicly. A share of the maintenance work is done with an AI coding agent (BOB, running in OpenCode), and the workflow + pull-request history in this repository document it.</sub>
+<!-- badges done -->
