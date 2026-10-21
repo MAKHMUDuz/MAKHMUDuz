@@ -16,6 +16,13 @@ getting close to the metal: C++, Rust, TypeScript, and the KDE ecosystem.
 - **[kdeconnect-kde](https://github.com/MAKHMUDuz/kdeconnect-kde)** — Fork used
   to prototype fixes for KDE Connect's KDE Plasma integration.
 
+## Recent open-source work
+
+- Two robustness PRs opened on [ylfeid/wavefront](https://github.com/ylfeid/wavefront)
+  (GPU readback failure handling and stopping the render loop after device loss).
+- [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) ships a
+  tray "Share Screen" action built on scrcpy for full-quality mirroring.
+
 ## Interests
 
 Systems programming, KDE/Plasma, GPU computing (WebGPU/WGSL), and the small
