@@ -76,7 +76,8 @@ _Generated automatically by a scheduled GitHub Action in this repository._
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-mahmudjonmurodov@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudjonmurodov@mail.ru)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-mahmudjonmurodov%40mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mahmudjonmurodov@mail.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-makhmudjonmurodov0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makhmudjonmurodov0@gmail.com)
 ![GitHub](https://img.shields.io/badge/GitHub-MAKHMUDuz-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
