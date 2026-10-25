@@ -20,23 +20,23 @@
 
 **Platforms & hardware:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-EC2268?style=flat-square&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://mahmuduz.dev)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=flat-square&logo=archlinux&logoColor=white&link=https://mahmuduz.dev)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white&link=https://mahmuduz.dev)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://mahmuduz.dev)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&link=https://mahmuduz.dev)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://mahmuduz.dev)
+![Blade](https://img.shields.io/badge/Blade-EC2268?style=flat-square&logo=laravel&logoColor=white&link=https://mahmuduz.dev)
 
 **Linux Distributions Used:**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=white)
-![Cachy OS](https://img.shields.io/badge/Cachy_OS-1F425F?style=flat-square&logo=cachyos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-8A2BE2?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-251A82?style=flat-square&logo=fedora&logoColor=white)
-![Pardus](https://img.shields.io/badge/Pardus-005A9C?style=flat-square&logo=Pardus&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-1A73E8?style=flat-square&logo=gnome&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&link=https://mahmuduz.dev)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=white&link=https://mahmuduz.dev)
+![Cachy OS](https://img.shields.io/badge/Cachy_OS-1F425F?style=flat-square&logo=cachyos&logoColor=white&link=https://mahmuduz.dev)
+![Debian](https://img.shields.io/badge/Debian-8A2BE2?style=flat-square&logo=debian&logoColor=white&link=https://mahmuduz.dev)
+![Fedora](https://img.shields.io/badge/Fedora-251A82?style=flat-square&logo=fedora&logoColor=white&link=https://mahmuduz.dev)
+![Pardus](https://img.shields.io/badge/Pardus-005A9C?style=flat-square&logo=Pardus&logoColor=white&link=https://mahmuduz.dev)
+![GNOME](https://img.shields.io/badge/GNOME-1A73E8?style=flat-square&logo=gnome&logoColor=white&link=https://mahmuduz.dev)
 
 ## 👤 About me
 
