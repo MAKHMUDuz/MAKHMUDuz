@@ -24,6 +24,9 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-EC2268?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Linux Distributions Used:**
 
