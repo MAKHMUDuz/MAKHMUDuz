@@ -25,6 +25,16 @@
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+**Linux Distributions Used:**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cachy OS](https://img.shields.io/badge/Cachy_OS-1F425F?style=for-the-badge&logo=cachyos&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-8A2BE2?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-251A82?style=for-the-badge&logo=fedora&logoColor=white)
+![Pardus](https://img.shields.io/badge/Pardus-005A9C?style=for-the-badge&logo= Pardus&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-1A73E8?style=for-the-badge&logo=gnome&logoColor=white)
+
 ## 👤 About me
 
 - Systems-minded developer: I like my desktop apps **fast, native and small**.
