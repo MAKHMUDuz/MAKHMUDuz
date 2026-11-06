@@ -36,7 +36,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/makhmudjon-murodov-a2306b344/" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="38" height="38" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/makhmudjon_murodov" target="_blank" rel="noreferrer" title="Telegram">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="38" height="38" />
@@ -48,7 +48,6 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="38" height="38" />
   </a>
 </p>
-<p align="center"><a href="https://www.instagram.com/makhmudjon_murodov/">@makhmudjon_murodov</a></p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -90,6 +89,7 @@
   <a href="https://cachyos.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cachyos/00A6D6" alt="CachyOS" width="40" height="40" /></a>
   <a href="https://antixlinux.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/AntiX_logo.png" alt="antiX Linux" width="40" height="40" /></a>
   <a href="https://kubuntu.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kubuntu/0079C1" alt="Kubuntu" width="40" height="40" /></a>
+  <a href="https://pardus.org.tr/" target="_blank" rel="noreferrer"><img src="https://forum.pardus.org.tr/uploads/default/original/2X/8/8b2fa302b93478509effcfcb8069a02823df7ef1.png" alt="Pardus Linux" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Linux Package Ecosystem</h3>
