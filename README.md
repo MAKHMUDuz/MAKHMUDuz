@@ -41,7 +41,7 @@
   <a href="https://t.me/makhmudjon_murodov" target="_blank" rel="noreferrer" title="Telegram">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="38" height="38" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/makhmudjon_murodov" target="_blank" rel="noreferrer" title="X / Twitter">
+  <a href="https://x.com/MAKHMUDuz" target="_blank" rel="noreferrer" title="X / Twitter">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X / Twitter" width="38" height="38" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/makhmudjon_murodov/" target="_blank" rel="noreferrer" title="Instagram @makhmudjon_murodov">
