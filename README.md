@@ -89,7 +89,7 @@
   <a href="https://cachyos.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cachyos/00A6D6" alt="CachyOS" width="40" height="40" /></a>
   <a href="https://antixlinux.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/AntiX_logo.png" alt="antiX Linux" width="40" height="40" /></a>
   <a href="https://kubuntu.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kubuntu/0079C1" alt="Kubuntu" width="40" height="40" /></a>
-  <a href="https://pardus.org.tr/" target="_blank" rel="noreferrer"><img src="https://forum.pardus.org.tr/uploads/default/original/2X/8/8b2fa302b93478509effcfcb8069a02823df7ef1.png" alt="Pardus Linux" width="40" height="40" /></a>
+  <a href="https://pardus.org.tr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pardus/pardus-about/master/pardus-about.svg" alt="Pardus Linux" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Linux Package Ecosystem</h3>
