@@ -15,23 +15,20 @@
 <h1 align="center">Hi 👋, I'm MAKHMUDJON MURODOV</h1>
 <h3 align="center">Desktop &amp; Web • GPU tooling • C++20 &amp; Rust developer</h3>
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <img
-        src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/main/assets/tux.gif?v=1"
-        alt="Tux the Linux penguin using a computer"
-        width="100%"
-      />
-    </td>
-    <td width="58%" align="left" valign="middle">
-      <p>I'm a developer interested in desktop applications, web technologies, GPU tooling, and systems programming.</p>
-      <p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
-      <p>👨‍💻 Projects: <a href="https://github.com/MAKHMUDuz">github.com/MAKHMUDuz</a></p>
-      <p>📫 Contact: <a href="mailto:mahmudjonmurodov@mail.ru">mahmudjonmurodov@mail.ru</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/main/assets/tux.gif?v=1"
+    alt="Tux the Linux penguin using a computer"
+    width="200"
+  />
+</p>
+
+<p>I'm a developer interested in desktop applications, web technologies, GPU tooling, and systems programming.</p>
+
+<p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
+
+<p>👨‍💻 Projects: <a href="https://github.com/MAKHMUDuz">github.com/MAKHMUDuz</a></p>
+<p>📫 Contact: <a href="mailto:mahmudjonmurodov@mail.ru">mahmudjonmurodov@mail.ru</a></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
