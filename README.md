@@ -19,11 +19,13 @@
   <img
     src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/main/assets/tux.gif?v=1"
     alt="Tux the Linux penguin using a computer"
-    width="200"
+    width="250"
   />
 </p>
 
-<p>I'm a developer interested in desktop applications, web technologies, GPU tooling, and systems programming.</p>
+<p>I'm a software developer driven by curiosity and a passion for open source. I enjoy building software, contributing to community-driven projects, and supporting the ecosystem that makes collaborative development possible. I believe great tools grow through shared knowledge, thoughtful engineering, and people who are willing to give back.</p>
+
+<p>My interests span desktop applications, web technologies, GPU tooling, and systems programming — especially projects where performance, usability, and open collaboration come together.</p>
 
 <p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
 
