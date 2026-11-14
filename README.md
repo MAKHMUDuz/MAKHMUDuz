@@ -27,7 +27,7 @@
 
 <p>My interests span desktop applications, web technologies, GPU tooling, and systems programming — especially projects where performance, usability, and open collaboration come together.</p>
 
-<p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
+
 
 
 
