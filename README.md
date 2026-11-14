@@ -19,8 +19,8 @@
   <tr>
     <td width="42%" align="center" valign="middle">
       <img
-        src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/main/assets/developer-coding-dark.gif?v=2"
-        alt="Developer coding at a dual-monitor setup in a dark workspace"
+        src="https://raw.githubusercontent.com/MAKHMUDuz/MAKHMUDuz/main/assets/tux.gif?v=1"
+        alt="Tux the Linux penguin using a computer"
         width="100%"
       />
     </td>
