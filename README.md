@@ -27,7 +27,7 @@
 
 <p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
 
-<p>👨‍💻 Projects: <a href="https://github.com/MAKHMUDuz">github.com/MAKHMUDuz</a></p>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
