@@ -28,7 +28,6 @@
 <p>🌱 Currently working on <strong>melyar</strong> (C++20 core + Rust YouTube Music client) and <strong>kdeconnect-scrcpy</strong> (KDE Connect tray + scrcpy mirroring).</p>
 
 <p>👨‍💻 Projects: <a href="https://github.com/MAKHMUDuz">github.com/MAKHMUDuz</a></p>
-<p>📫 Contact: <a href="mailto:mahmudjonmurodov@mail.ru">mahmudjonmurodov@mail.ru</a></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -43,6 +42,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/makhmudjon_murodov/" target="_blank" rel="noreferrer" title="Instagram @makhmudjon_murodov">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="38" height="38" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mahmudjonmurodov@mail.ru" title="Email">
+    <img src="https://cdn.simpleicons.org/maildotru/005FF9" alt="Email" width="38" height="38" />
   </a>
 </p>
 
