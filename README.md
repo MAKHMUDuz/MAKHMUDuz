@@ -23,13 +23,15 @@
   />
 </p>
 
-<p>I'm a software developer driven by curiosity and a passion for open source. I enjoy building software, contributing to community-driven projects, and supporting the ecosystem that makes collaborative development possible. I believe great tools grow through shared knowledge, thoughtful engineering, and people who are willing to give back.</p>
+<div align="center">
 
-<p>My interests span desktop applications, web technologies, GPU tooling, and systems programming — especially projects where performance, usability, and open collaboration come together.</p>
+<p>Open-source developer who loves building useful software and contributing to the community.</p>
 
+<p>Focused on desktop apps, web technologies, GPU tooling, and systems programming.</p>
 
+<p>🌱 Building <strong>melyar</strong> and <strong>kdeconnect-scrcpy</strong>.</p>
 
-
+</div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
