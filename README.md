@@ -45,6 +45,9 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:mahmudjonmurodov@mail.ru" title="Email">
     <img src="https://cdn.simpleicons.org/maildotru/005FF9" alt="Email" width="38" height="38" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:makhmudjonmurodov0@gmail.com" title="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="38" height="38" />
   </a>
 </p>
 
